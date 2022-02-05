@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I was a notorious hacker in elementary school.
 
 #### TryHackMe
-![TryHackMe Badge for Bil.Hudson](https://tryhackme-badges.s3.amazonaws.com/Bill.Hudson.png)
+![TryHackMe Badge for Bil.Hudson](https://tryhackme-badges.s3.amazonaws.com/Bill.Hudson.png?)
