@@ -1,7 +1,6 @@
 ## Hi, I'm William 👋
 
 - 😄 I also answer to 'Bill'
-- 🌱 I’m currently working on SSCP certification.
 - 🔭 I’m currently looking for opportunities in information security or software development.
 - 📫 How to reach me: https://www.linkedin.com/in/whudson1/
 
