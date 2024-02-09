@@ -7,3 +7,7 @@
 
 #### TryHackMe
 ![TryHackMe Badge for 0xBizzle](https://tryhackme-badges.s3.amazonaws.com/0xBizzle.png?)
+
+#### Credly
+[<img src="https://github.com/whudson/whudson/assets/519003/1c10a41d-bccb-4e6e-863e-ccd1dad9bc6f" alt="CompTIA CySA+ Certification">](https://www.credly.com/badges/b1623f9f-cfdf-417c-925f-cf2d11927348/public_url)
+
