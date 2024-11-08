@@ -1,9 +1,10 @@
-## Hi, I'm Billy 👋
+## Hi, I'm Bill 👋
 
-- 😄 I also answer to 'Bill'
-- 🔭 **I’m currently open to interesting opportunities, I would like to work in information security.**
-- 🪛 I enjoy tinkering with my tech however I can. Casual enjoyer of Ghidra and Wireshark.
-- 🐧 Currently running Debian.
+- 🔭 **I work with computers and electronics.**
+- 🪛 I enjoy tinkering with my tech however I can.
+- 🐧 Currently running Debian and CentOS.
+
+I have worked with many different computer languages and technologies in my personal life. My professional experience includes networking and electronics, and I am currently working to expand my knowledge base in information security.
 
 #### TryHackMe
 [<img src="https://tryhackme-badges.s3.amazonaws.com/0xBizzle.png?" alt="TryHackMe Badge for 0xBizzle">](https://tryhackme.com/p/0xBizzle)
