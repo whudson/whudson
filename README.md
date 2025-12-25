@@ -2,7 +2,7 @@
 
 - 🔭 **I work with computers and electronics.**
 - 🪛 I enjoy tinkering with my tech however I can.
-- 🐧 Currently running Debian and CentOS.
+- 🐧 Currently running Debian.
 
 I have worked with many different computer languages and technologies in my personal life. My professional experience includes networking and electronics, and I am currently working to expand my knowledge base in information security.
 
